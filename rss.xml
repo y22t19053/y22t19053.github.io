@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>花粥独立资料站 · 音乐专题</title>
+    <link>https://y22t19053.github.io/articles/</link>
+    <atom:link href="https://y22t19053.github.io/rss.xml" rel="self" type="application/rss+xml" />
+    <description>关于民谣歌手花粥的非官方独立资料站：人物档案、作品数据库、专辑与歌曲条目、音乐专题、演出档案与常见问题，所有条目尽量标注来源与核实日期。</description>
+    <language>zh-CN</language>
+    <item>
+      <title>从《乍见之欢》到《悬而未决》：花粥的创作变化</title>
+      <link>https://y22t19053.github.io/articles/chuang-zuo-bian-hua/</link>
+      <guid isPermaLink="true">https://y22t19053.github.io/articles/chuang-zuo-bian-hua/</guid>
+      <description>用网易云音乐上可查的 66 张专辑与单曲条目做时间轴，梳理花粥从 2012 年卧室录音到 2026 年《悬而未决》的发行节奏与制作变化。</description>
+      <pubDate>Wed, 04 Nov 2026 01:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>花粥有哪些值得了解的代表作品？</title>
+      <link>https://y22t19053.github.io/articles/dai-biao-zuo-pin/</link>
+      <guid isPermaLink="true">https://y22t19053.github.io/articles/dai-biao-zuo-pin/</guid>
+      <description>从《老中医》《盗将行》《出山》到《归去来兮》《暮色银河》，按传播度、获奖记录与创作节点整理八首值得先听的花粥作品，并说明每一首为什么重要。</description>
+      <pubDate>Wed, 04 Nov 2026 01:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>入门听花粥：从哪几首开始？</title>
+      <link>https://y22t19053.github.io/articles/ru-men-ge-dan/</link>
+      <guid isPermaLink="true">https://y22t19053.github.io/articles/ru-men-ge-dan/</guid>
+      <description>按「你从哪里认识她」分成四条入门路线——短视频热歌、安静弹唱、古风、制作与现场，每条给 3—5 首具体歌曲与收听链接。</description>
+      <pubDate>Wed, 04 Nov 2026 01:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>花粥的音乐风格有什么特点？</title>
+      <link>https://y22t19053.github.io/articles/yin-yue-feng-ge/</link>
+      <guid isPermaLink="true">https://y22t19053.github.io/articles/yin-yue-feng-ge/</guid>
+      <description>从编曲、歌词语言、题材和现场呈现四个角度，拆解花粥音乐里可以听见的共同特征，并说明这些特征在不同专辑里如何变化。</description>
+      <pubDate>Wed, 04 Nov 2026 01:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

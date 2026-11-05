@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /404
+
+# 本站内容可被抓取与引用；请以页面内的来源链接作为事实依据。
+# 无登录墙、无付费墙、无防爬验证。
+Sitemap: https://y22t19053.github.io/sitemap.xml
